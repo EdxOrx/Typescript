@@ -48,3 +48,7 @@ Type:
 If you are woking with classes use interfaces
 
 If you want to describe functions ir no-objects related stuff use types
+
+### Biggest difference:
+
+You can declare the same interface multiple times, and TypeScript automatically combines them. This is called declaration merging.
