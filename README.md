@@ -4,3 +4,4 @@
 2. [Interfaces](./interface/README.md)
 3. [Types and interfaces](./TypesAndInterfaces/README.md)
 4. [Generics](./Generics/README.md)
+5. [Type Inference](./TypeInference/README.md)
