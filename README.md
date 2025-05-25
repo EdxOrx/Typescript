@@ -7,3 +7,4 @@
 5. [Type Inference](./TypeInference/README.md)
 6. [Type Guards](./Type_Guards/README.md)
 7. [Mapped Types](./Mapped_Types/README.md)
+8. [Decoratos](./Decorator/README.md)
